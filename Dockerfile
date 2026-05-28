@@ -6,8 +6,6 @@ ENV PIP_NO_CACHE_DIR=1
 
 WORKDIR /app
 
-RUN apt-get update && apt-get upgrade -y && apt-get clean && rm -rf /var/lib/apt/lists/*
-
 COPY requirements.txt .
 RUN pip install --upgrade pip && pip install -r requirements.txt
 
