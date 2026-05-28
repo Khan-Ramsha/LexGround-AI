@@ -129,7 +129,8 @@ Request body:
 This stores changes and a learned rule in SQLite for future prompts.
 
 ## Architecture 
-<img width="672" height="863" alt="image" src="https://github.com/user-attachments/assets/5c3e0a5e-7bab-47e7-9762-41ef8aadbbb6" />
+
+<img width="697" height="856" alt="image" src="https://github.com/user-attachments/assets/fe4b60b1-8bdd-4066-acf7-b7e8ad76e0d9" />
 
 ## Run Tests
 
