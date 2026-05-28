@@ -1,0 +1,279 @@
+{
+  "document_name": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+  "draft": "## Case Fact Summary\n\n**Parties:** Not found in document [E1], [E2]\n**Document Type:** Leave and License Agreement [E2]\n**Key Dates:** Not found in document [E3], [E7], [E21]\n**Key Terms:** \n* The Licensee shall pay to the Licensor Rs.---------- per month towards the compensation [E12]\n* The Licensee shall not make or permit to do any alteration or addition to the construction of the said premises [extracted fields]\n* The Licensee shall maintain the said premises in its existing condition [extracted fields]\n**Financial Terms:** \n* Rs.---------- interest free refundable deposit [extracted fields]\n* Rs.---------- per month towards the compensation [E12]\n* Rs.---------- interest free nonrefundable deposit [E12]\n**Obligations:** \n* The Licensee shall vacate the said premises without delay with all his goods and belongings on expiration or termination of the agreement [E20]\n* The Licensor shall be entitled to recover damages at the rate of double the daily amount of compensation per day if the Licensee fails to vacate [E20]\n**Termination Conditions:** \n* The Licensor shall be entitled to revoke and/or cancel the License if the Licensee commits default in regular and punctual payments of monthly compensation [E19]\n* The Licensee shall vacate the said premises without delay with all his goods and belongings on expiration or termination of the agreement [E20]\n**Evidence Gaps:** \n* Names of the Licensor and Licensee are not found in the document [E1], [E2]\n* Dates are not specified in the document [E3], [E7], [E21]\n* Amounts for rent, deposit, and other financial terms are not specified in the document [extracted fields]",
+  "evidence_used": [
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_50",
+      "chunk": "IN WITNESS WHEREOF the parties hereto have set and subscribed their respective signatures by way of putting thumb impression electronic signature hereto in the presence of witness, who are identifying the executants, on the day, month and year first above written.",
+      "chunk_index": 50,
+      "score": 1.287489891052246,
+      "similarity": 0.43716040184990707,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 50
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_10",
+      "chunk": "NOW THEREFORE IT IS HEREBY AGREED TO, DECLARED AND RECORDED BY AND BETWEEN THE PARTIES HERETO AS FOLLOWS:-",
+      "chunk_index": 10,
+      "score": 1.4779584407806396,
+      "similarity": 0.40355801919138184,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 10
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_2",
+      "chunk": "This agreement is made and executed on     (Date)    at (City)",
+      "chunk_index": 2,
+      "score": 1.5635886192321777,
+      "similarity": 0.39007818668640787,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 2
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_2",
+      "chunk": "This agreement is made and executed on     (Date)    at (City)",
+      "chunk_index": 2,
+      "score": 1.2294285297393799,
+      "similarity": 0.448545439631967,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 2
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_10",
+      "chunk": "NOW THEREFORE IT IS HEREBY AGREED TO, DECLARED AND RECORDED BY AND BETWEEN THE PARTIES HERETO AS FOLLOWS:-",
+      "chunk_index": 10,
+      "score": 1.463949203491211,
+      "similarity": 0.4058525226831313,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 10
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_47",
+      "chunk": "- 10) Possession: That the immediately at on the expiration or termination or cancellation of this agreement  the  Licensee  shall  vacate  the  said  premises  without  delay  with  all  his  goods  and belongings. In the event of the Licensee failing and / or neglecting to remove himself and / or his articles from the said premises on expiry or sooner determination of this Agreement, the Licensor shall be entitled to recover damages at the rate of double the daily amount of compensation per day and or alternatively the Licensor shall be entitled to remove the Licensee and his belongings from the Licensed premises, without recourse to the Court of Law.",
+      "chunk_index": 47,
+      "score": 1.5807019472122192,
+      "similarity": 0.38749147342653856,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 47
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_2",
+      "chunk": "This agreement is made and executed on     (Date)    at (City)",
+      "chunk_index": 2,
+      "score": 1.1339547634124756,
+      "similarity": 0.4686134950681278,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 2
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_50",
+      "chunk": "IN WITNESS WHEREOF the parties hereto have set and subscribed their respective signatures by way of putting thumb impression electronic signature hereto in the presence of witness, who are identifying the executants, on the day, month and year first above written.",
+      "chunk_index": 50,
+      "score": 1.3374578952789307,
+      "similarity": 0.4278151927441111,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 50
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_0",
+      "chunk": "| Particulars      | Amount Paid     | GRN No.   | Date   | Deface No.   |\n|------------------|-----------------|-----------|--------|--------------|\n| Stamp Duty       | Rs. (Amount) /- | (GRN)     | (Date) |              |\n| Registration Fee | Rs. (Amount) /- | (GRN)     | (Date) |              |",
+      "chunk_index": 0,
+      "score": 1.4134163856506348,
+      "similarity": 0.41435038145330616,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 0
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_35",
+      "chunk": "-  That the ---------------------- has/have paid / shall pay the above mentioned deposit/premium as mentioned above by Cheque No. -----------, dated--------, drawn on the Licensee's Banking",
+      "chunk_index": 35,
+      "score": 1.4520130157470703,
+      "similarity": 0.4078281777371902,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 35
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_37",
+      "chunk": "-  That the ---------------------- has/have paid / shall pay the above mentioned deposit/premium as mentioned above by Transaction Reference No. -------------, dated----------, drawn on the Licensee's Banking Account with --------------- Bank, ----------- Branch. Amount Rs.-----------",
+      "chunk_index": 37,
+      "score": 1.472159743309021,
+      "similarity": 0.4045046048122626,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 37
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_20",
+      "chunk": "-  That the Licensees shall pay to the Licensor Rs--------------per month towards the compensation and Rs--------------interest free nonrefundable deposit,  for the use of the said licensed premises. The amount of monthly  compensation shall be payable within first five days of the concerned month of Leave and License.",
+      "chunk_index": 20,
+      "score": 1.5455771684646606,
+      "similarity": 0.39283821853381096,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 20
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_31",
+      "chunk": "## 3) Payment of Deposit:",
+      "chunk_index": 31,
+      "score": 1.091031551361084,
+      "similarity": 0.47823286040284035,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 31
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_34",
+      "chunk": "-  That the ---------------------- has/have  paid / shall pay the above mentioned deposit/premium as mentioned above  by Demand Draft No.----------, dated --------, drawn from ---------------- Bank, ------------- Branch. Amount Rs.-------------",
+      "chunk_index": 34,
+      "score": 1.134564757347107,
+      "similarity": 0.46847957952928365,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 34
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_33",
+      "chunk": "-  That  the  Licensee  have  paid  /  shall  pay  the  above  mentioned deposit/premium  as mentioned above by Cash. Amount Rs.\\_\\_\\_\\_\\_\\_\\_\\_",
+      "chunk_index": 33,
+      "score": 1.1629414558410645,
+      "similarity": 0.4623333642709011,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 33
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_50",
+      "chunk": "IN WITNESS WHEREOF the parties hereto have set and subscribed their respective signatures by way of putting thumb impression electronic signature hereto in the presence of witness, who are identifying the executants, on the day, month and year first above written.",
+      "chunk_index": 50,
+      "score": 1.2723705768585205,
+      "similarity": 0.44006906716001754,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 50
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_48",
+      "chunk": "- 11) Registration: This Agreement is to be registered and the expenditure of Stamp duty and registration fees and incidental charges, if any, shall be borne by the Licensee.",
+      "chunk_index": 48,
+      "score": 1.2751210927963257,
+      "similarity": 0.43953704405725114,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 48
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_37",
+      "chunk": "-  That the ---------------------- has/have paid / shall pay the above mentioned deposit/premium as mentioned above by Transaction Reference No. -------------, dated----------, drawn on the Licensee's Banking Account with --------------- Bank, ----------- Branch. Amount Rs.-----------",
+      "chunk_index": 37,
+      "score": 1.3847384452819824,
+      "similarity": 0.41933319856457274,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 37
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_46",
+      "chunk": "- 9) Cancellation: That,  if  the  Licensee  commits  default  in  regular  and  punctual  payments  of monthly  compensation  as  herein  before  mentioned  or  commit/s  breach  of  any  of  the  terms, covenants and conditions of this agreement or if any legislation prohibiting the Leave and License is imposed, the Licensor shall be entitled to revoke and / or cancel the License hereby granted, by giving notice in writing of one month and the Licensee too will have the right to vacate the said premises by giving a notice in writing of one month to the Licensor as mentioned earlier.",
+      "chunk_index": 46,
+      "score": 0.9986416101455688,
+      "similarity": 0.5003398282732471,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 46
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_47",
+      "chunk": "- 10) Possession: That the immediately at on the expiration or termination or cancellation of this agreement  the  Licensee  shall  vacate  the  said  premises  without  delay  with  all  his  goods  and belongings. In the event of the Licensee failing and / or neglecting to remove himself and / or his articles from the said premises on expiry or sooner determination of this Agreement, the Licensor shall be entitled to recover damages at the rate of double the daily amount of compensation per day and or alternatively the Licensor shall be entitled to remove the Licensee and his belongings from the Licensed premises, without recourse to the Court of Law.",
+      "chunk_index": 47,
+      "score": 1.3082199096679688,
+      "similarity": 0.43323428405218434,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 47
+      }
+    },
+    {
+      "chunk_id": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf_chunk_2",
+      "chunk": "This agreement is made and executed on     (Date)    at (City)",
+      "chunk_index": 2,
+      "score": 1.322561264038086,
+      "similarity": 0.43055914842106907,
+      "metadata": {
+        "source": "443be5ec-c87c-4492-bc73-c75b8df9ca53_LAndL.pdf",
+        "chunk_index": 2
+      }
+    }
+  ],
+  "structured_fields": {
+    "dates": [],
+    "parties": [
+      "commits  default  in  regular  and  punctual  payments  of monthly  com",
+      "the following amount per month towards the compensation  for the use of",
+      "as mentioned earlier.",
+      "in respect of said premises or shall not do any unlawful activities pro",
+      "Rs--------------interest free refundable deposit",
+      "for a period of Months commencing from and ending on",
+      "above named).",
+      "Name : UID: Address:                                   | Photo   | Thum",
+      "hereby grants to the Licensee herein a revocable leave and license",
+      "have  paid  /  shall  pay  the  above  mentioned deposit/premium  as me",
+      "with a request to allow the Licensee herein to use and occupy the said ",
+      "shall pay to the Licensor Rs.          Per month towards the compensati",
+      "above named as also his respective heirs",
+      "shall be entitled to recover damages at the rate of double the daily am",
+      "is  absolutely  seized  and  possessed  of  and  or  otherwise  well  a",
+      "have agreed to allow the Licensee herein to use and occupy the said Lic",
+      "too will have the right to vacate the said premises by giving a notice ",
+      "shall not make or permit to do any alteration or addition to the constr",
+      "shall be entitled to remove the Licensee and his belongings from the Li",
+      "Rs--------------per month towards the compensation and Rs--------------",
+      "shall on reasonable notice given by the Licensor to the Licensee shall ",
+      "shall be entitled to revoke and / or cancel the License hereby granted",
+      "Rs--------------interest free nonrefundable deposit",
+      "at its own cost subject to normal wear and tear. The Licensee shall not",
+      "for purpose. The Licensee shall maintain the said premises in its exist",
+      "herein is in need of temporary premises for his               use has/h",
+      "failing and / or neglecting to remove himself and / or his articles fro",
+      "shall  vacate  the  said  premises  without  delay  with  all  his  goo",
+      "shall not claim any tenancy right and shall not have any right to trans"
+    ],
+    "monetary_amounts": [],
+    "case_numbers": [
+      "No",
+      "-"
+    ],
+    "durations": [],
+    "addresses": []
+  },
+  "few_shot_applied": true
+}
