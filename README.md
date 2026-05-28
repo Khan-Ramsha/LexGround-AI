@@ -160,23 +160,6 @@ User edits draft -> /edit endpoint
    v
 diff + classify edit + store rule in SQLite
 ```
-
-## Current Known Issues (Simple)
-
-- README was missing details (fixed by this file).
-- `.gitignore` ignores `artifacts/uploads/`, but app writes to `artifacts/` root.
-- Repository contains many binary artifact files in `artifacts/` (can make repo heavy).
-- Draft/document runtime state is kept in memory (`_docs`, `_indexes`, `_drafts`) and is lost on restart.
-- `Dockerfile` uses `apt-get upgrade -y`, which is usually avoided for reproducible images.
-- `editor.py` has a return type hint mismatch in `extract_changes`.
-
-## Suggested Small Improvements
-
-- Add `.env.example`.
-- Update `.gitignore` to ignore generated artifacts clearly.
-- Move runtime state to persistent storage (Redis/DB) if multi-user or production usage is needed.
-- Add endpoint docs examples (curl/Postman) and API schema notes.
-
 ## Run Tests
 
 ```bash
