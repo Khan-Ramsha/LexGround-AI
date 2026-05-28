@@ -128,38 +128,9 @@ Request body:
 
 This stores changes and a learned rule in SQLite for future prompts.
 
-## Architecture (Easy View)
+## Architecture 
+<img width="672" height="863" alt="image" src="https://github.com/user-attachments/assets/5c3e0a5e-7bab-47e7-9762-41ef8aadbbb6" />
 
-```text
-User File
-   |
-   v
-/upload endpoint (main.py)
-   |
-   v
-DocumentProcessor
-  - convert file to text
-  - chunk text
-  - extract structured fields
-   |
-   v
-DocumentIndex (embeddings + FAISS)
-   |
-   v
-retrieve top evidence chunks per legal section
-   |
-   v
-generate_draft (LLM prompt + output)
-   |
-   v
-Return draft to user
-   |
-   v
-User edits draft -> /edit endpoint
-   |
-   v
-diff + classify edit + store rule in SQLite
-```
 ## Run Tests
 
 ```bash
