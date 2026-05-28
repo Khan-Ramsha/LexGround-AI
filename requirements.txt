@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+python-dotenv
+groq
+docling
+faiss-cpu
+numpy
+sentence-transformers
+reportlab
+pytest
