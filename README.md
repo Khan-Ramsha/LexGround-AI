@@ -36,7 +36,7 @@ This project is built with FastAPI and uses retrieval + LLM generation.
 ### 1) Clone and enter project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Khan-Ramsha/LexGround-AI.git
 cd LexGround-AI
 ```
 
